@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+python-dotenv==1.0.0
+fastapi[all]==0.94.0
+
